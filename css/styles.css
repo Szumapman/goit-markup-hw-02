@@ -76,7 +76,7 @@ h3 {
     color: var(--ocean);
 }
 
-.first-nav-item:focus {
+.nav-item:focus {
     color: var(--ocean);
     text-decoration: underline;
 }
