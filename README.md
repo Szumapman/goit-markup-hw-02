@@ -40,7 +40,7 @@
 
 `B5` Nazwy klas nie zawierają dużych liter, spacji, transliteracji i nazw tagów. Nazwy zawierają tylko litery i słowa w języku angielskim. Jeśli nazwa klasy składa się z kilku słów, są one oddzielone myślnikiem.
 
-`B6` W tagach <img> podane są atrybuty rozmiarów, co najmniej width.
+`B6` W tagach \<img\> podane są atrybuty rozmiarów, co najmniej width.
 
 `B7` Obrazy są eksportowane z projektu w formacie jpg.
 
